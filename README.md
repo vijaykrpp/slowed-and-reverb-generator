@@ -1,4 +1,4 @@
-# Slowed and Reverb Generator - Free Tool For Creating Slower & Reverb Version of Any Song.
+# Slowed and Reverb Generator - Free Tool For Creating Slower & Reverb Version of Any Song
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://ssslowedandreverb.com/)
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/slowed-and-reverb-generator/blob/main/LICENSE)
@@ -29,7 +29,7 @@ You can even process multiple files at once, making it easy to create slowed-dow
 
 ## 🚀 Live Demo
 
-Experience the Acapella Extractor now:  
+Experience the slowed reverb generator now:  
 👉 [https://ssslowedandreverb.com/](https://ssslowedandreverb.com/)
 
 ## ✨ Technology Stack
