@@ -3,8 +3,8 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://ssslowedandreverb.com/)
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/slowed-and-reverb-generator/blob/main/LICENSE)
 
-<table><tr><td> <img src="https://img001.prntscr.com/file/img001/rvMIzxkhSbCcuca7ntPWhw.png" alt="subtitle translator screenshot"></td><td><img src="https://img001.prntscr.com/file/img001/PpF0mtOLT9KDqCT69RVcSA.png" alt="translation progress bar screenshot"></td></tr>
-<tr><td> <img src="https://img001.prntscr.com/file/img001/NYOuEiduRUqRgKSu_uLs_w.png" alt="translation completed with download button screenshot"></td><td><img src="https://img001.prntscr.com/file/img001/gFjVkLkyRve38F2vVngtWg.png" alt="subtitle converter screenshot"></td></tr>
+<table><tr><td> <img src="https://img001.prntscr.com/file/img001/r67XBnCrSX67KEPpqC8pBw.png" alt="subtitle translator screenshot"></td><td><img src="https://img001.prntscr.com/file/img001/tNLiY_JPT2-k15gpVnsK7w.png" alt="translation progress bar screenshot"></td></tr>
+<tr><td> <img src="https://img001.prntscr.com/file/img001/HAdnWvD-R4SMyAs_UX1jBw.png" alt="translation completed with download button screenshot"></td></tr>
 </table>
 
 ## 🌟 Introduction
